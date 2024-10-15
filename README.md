@@ -2,7 +2,7 @@
 
 Meu nome é **Alberto Paim**, Sou baiano, multi intrumentista, desenhista e gamer, encontrei na área de desenvolvimento de software a fusão perfeita entre minha paixão pela arte e a tecnologia. Estou fazendo transição de carreira de Professor de Teatro para me tornar um Desenvolvedor de Software.
 
-Atualmente, estou me aprimorando como **Desenvolvedor de Software Fullstack**, mergulhando no universo do Typescript, Nodejs, Next, TailwindCSS, Git, GitHub e SQL. Além disso, possuo habilidades em **inglês em nível B2**, o que me permite me conectar com a comunidade global de desenvolvimento.
+Atualmente, estou me aprimorando como **Desenvolvedor de Software Backend**, mergulhando no universo do C#, Typescript, Nodejs, Next, TailwindCSS, Git, GitHub e SQL. Além disso, possuo habilidades em **inglês em nível B2**, o que me permite me conectar com a comunidade global de desenvolvimento.
 
 Durante minha trajetória como ator e professor, tive a oportunidade de me envolver em diversos projetos interpessoais, o que me proporcionou um desenvolvimento significativo em habilidades como **comunicação**, superação da timidez e **trabalho em equipe**. Essas competências adquiridas certamente serão valiosas na minha nova jornada como desenvolvedor.
 
