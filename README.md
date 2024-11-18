@@ -1,10 +1,10 @@
 # Olá pessoal! :nerd_face:
 
-Meu nome é **Alberto Paim**, Sou baiano, multi intrumentista, desenhista e gamer, encontrei na área de desenvolvimento de software a fusão perfeita entre minha paixão pela arte e a tecnologia. Estou fazendo transição de carreira de Professor de Teatro para me tornar um Desenvolvedor de Software.
+Meu nome é **Alberto Paim**, Sou baiano, multi intrumentista, desenhista e gamer, encontrei na área de desenvolvimento de software a fusão perfeita entre minha paixão pela arte e a tecnologia.
 
-Atualmente, estou me aprimorando como **Desenvolvedor de Software Backend**, mergulhando no universo do C#, Typescript, Nodejs, Next, TailwindCSS, Git, GitHub e SQL. Além disso, possuo habilidades em **inglês em nível B2**, o que me permite me conectar com a comunidade global de desenvolvimento.
+Atualmente, estou focado em minha especialização como Desenvolvedor Backend, trabalhando com tecnologias como Java, C#, TypeScript, Node.js, SQL, TailwindCSS, Git e GitHub. Além disso, meu nível B2 em inglês me permite interagir e colaborar com a comunidade global de tecnologia.
 
-Durante minha trajetória como ator e professor, tive a oportunidade de me envolver em diversos projetos interpessoais, o que me proporcionou um desenvolvimento significativo em habilidades como **comunicação**, superação da timidez e **trabalho em equipe**. Essas competências adquiridas certamente serão valiosas na minha nova jornada como desenvolvedor.
+No passado, atuei como ator e professor, experiências que me ajudaram a desenvolver habilidades como criatividade, comunicação eficaz e trabalho em equipe. Embora hoje minha trajetória esteja totalmente voltada para a área de tecnologia, essas competências ainda enriquecem minha abordagem como desenvolvedor, trazendo uma perspectiva humana e colaborativa para projetos técnicos.
 
 ## :mag: Para me encontrar:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albertopaim/)
