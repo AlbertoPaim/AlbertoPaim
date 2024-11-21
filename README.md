@@ -2,7 +2,7 @@
 
 Meu nome é **Alberto Paim**, Sou baiano, multi intrumentista, desenhista e gamer, encontrei na área de desenvolvimento de software a fusão perfeita entre minha paixão pela arte e a tecnologia.
 
-Atualmente, estou focado em minha especialização como Desenvolvedor Backend, trabalhando com tecnologias como Java, C#, TypeScript, Node.js, SQL, TailwindCSS, Git e GitHub. Além disso, meu nível B2 em inglês me permite interagir e colaborar com a comunidade global de tecnologia.
+Atualmente, estou focado em minha especialização como Desenvolvedor Backend, trabalhando com tecnologias como Java, Spring Boot, TypeScript, Node.js, SQL, TailwindCSS, Git e GitHub. Além disso, meu nível B2 em inglês me permite interagir e colaborar com a comunidade global de tecnologia.
 
 No passado, atuei como ator e professor, experiências que me ajudaram a desenvolver habilidades como criatividade, comunicação eficaz e trabalho em equipe. Embora hoje minha trajetória esteja totalmente voltada para a área de tecnologia, essas competências ainda enriquecem minha abordagem como desenvolvedor, trazendo uma perspectiva humana e colaborativa para projetos técnicos.
 
