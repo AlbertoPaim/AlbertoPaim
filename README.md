@@ -1,19 +1,39 @@
-# Olá pessoal! :nerd_face:
+## 👋 Hello! I'm Alberto Paim
 
-Meu nome é **Alberto Paim**, Sou baiano, multi intrumentista, desenhista e gamer, encontrei na área de desenvolvimento de software a fusão perfeita entre minha paixão pela arte e a tecnologia.
+A multi-instrumentalist, illustrator, gamer, and a true crypto enthusiast from Bahia, Brazil.  
+I'm passionate about **blockchain** and always seeking new knowledge and challenges.
 
-Atualmente, estou focado em minha especialização como Desenvolvedor Backend, trabalhando com tecnologias como Java, Spring Boot, TypeScript, Node.js, SQL, TailwindCSS, Git e GitHub. Além disso, meu nível B2 em inglês me permite interagir e colaborar com a comunidade global de tecnologia.
+### 🚀 Currently
+I’m specializing as a **Blockchain Developer**, building secure and innovative decentralized solutions.
 
-No passado, atuei como ator e professor, experiências que me ajudaram a desenvolver habilidades como criatividade, comunicação eficaz e trabalho em equipe. Embora hoje minha trajetória esteja totalmente voltada para a área de tecnologia, essas competências ainda enriquecem minha abordagem como desenvolvedor, trazendo uma perspectiva humana e colaborativa para projetos técnicos.
+### 🛠️ Technologies and Tools
+
+- **Smart Contracts:** Solidity  
+- **Frameworks:** Hardhat, Ethers.js  
+- **Languages:** Node.js, TypeScript, Next.js  
+- **Styling:** CSS, TailwindCSS  
+- **Version Control:** Git, GitHub
+
+### 🌍 Fluent in English (B2 level)
+
+Effective communication with international teams and access to global tech communities.
+
+### 🤝 Soft Skills
+
+Strong communication, teamwork, and problem-solving skills.  
+These abilities enhance my performance in collaborative and agile environments.
+
+Boa comunicação, trabalho em equipe e resolução de problemas.  
+Essas competências fortalecem minha atuação em ambientes colaborativos e ágeis.
 
 ## :mag: Para me encontrar:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albertopaim/)
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5571981154490&text&type=phone_number&app_absent=0)
 
 ## :desktop_computer: Hard Skills:
+![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) 
 ![Nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![next](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
