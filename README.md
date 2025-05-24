@@ -23,9 +23,6 @@ Effective communication with international teams and access to global tech commu
 Strong communication, teamwork, and problem-solving skills.  
 These abilities enhance my performance in collaborative and agile environments.
 
-Boa comunicação, trabalho em equipe e resolução de problemas.  
-Essas competências fortalecem minha atuação em ambientes colaborativos e ágeis.
-
 ## :mag: Para me encontrar:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albertopaim/)
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5571981154490&text&type=phone_number&app_absent=0)
